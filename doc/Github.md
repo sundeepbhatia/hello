@@ -43,6 +43,13 @@ shows changes
 - shows commit logs
 ### pull
 - use --dry-run to see what would happen
+### pull-request
+to create a pull request
+### push
+to push changes to a remote branch
+- use --dry-run to see what would happen
+- if you create a local branch then to set upstream branch create a branch at remote of same name and use:
+git push --set-upstream origin 'branch'
 ### status
 - shows status of current branch
 ### rm
