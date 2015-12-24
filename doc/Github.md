@@ -1,4 +1,4 @@
-# github
+    # github
 Use github markdown for README.md and documentation.
 
 ## ui
@@ -30,7 +30,7 @@ to track changes in files
 - switch to a branch: git checkout 'branch'
 
 ### clone
-- to clone a gitub repository 'repo': git clone https://github.com/<owner>/repo.git
+to clone a gitub repository 'repo': git clone https://github.com/<owner>/repo.git
 
 ### commit
 commits changes to the repository. Done with a sequence of git add, git rm, and git commit.
@@ -49,7 +49,7 @@ shows changes
 shows lines that match a pattern
 
 ### log
-- shows commit logs
+shows commit logs
 
 ### merging pull request
 From your project repository, bring in the changes and test.
@@ -81,7 +81,7 @@ to save away changes in a dirty working directory eg. when changing branch using
 - to reapply stashed changes: git stash apply
 
 ### status
-- shows status of current branch
+shows status of current branch
 
 ### request-pull
 to create a pull request
