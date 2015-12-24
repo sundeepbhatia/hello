@@ -3,7 +3,7 @@ Use github markdown for README.md and documentation.
 
 ## ui
 - create a repository by clicking new on repositories tab
-- create directory by typing / in a filename
+- create directory by typing "/" in the filename field
 - rename file by changing name
 
 ## github flow
@@ -38,9 +38,9 @@ commits changes to the repository. Done with a sequence of git add, git rm, and 
 - use --dry-run to see what would happen
 
 ### config
-- to see configuration: git config -l
-- to set user email: git config --global user.email "you@example.com"
-- to set user name: git config --global user.name "your name"
+- to see configuration: `git config -l`
+- to set user email: `git config --global user.email "you@example.com"`
+- to set user name: `git config --global user.name "your name"`
 
 ### diff
 shows changes
